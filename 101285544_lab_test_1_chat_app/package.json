@@ -1,0 +1,16 @@
+{
+  "name": "101285544_lab_test_1_chat_app",
+  "version": "1.0.0",
+  "description": "Lab Test 1 Chat App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Durga Sutharsan",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.2.1",
+    "socket.io": "^4.4.1"
+  }
+}
